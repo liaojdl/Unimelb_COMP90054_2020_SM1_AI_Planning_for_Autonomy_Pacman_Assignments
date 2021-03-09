@@ -5,14 +5,19 @@
 You can find them at
 Project 1 and Project 2: https://inst.eecs.berkeley.edu/~cs188/fa18/project1.html
 Project 3: https://berkeleyai.github.io/cs188-website/project3.html
+The exact project descriptions could be found in each project folder. Simple descriptions
+are given below.
 
-###Project 1 covers the implementation of search algorithms including Depth First Search (DFS),
+### Project 1 : Search Algorithms
+It covers the implementation of search algorithms including Depth First Search (DFS),
 Breadth-First Search (BFS), Enforced Hill Climbing (EHC), Iterative Deepening A* and 
 Deceptive Path Planning.
 
-###Project 2 models the Pacman using PDDL language.
+### Project 2 : PDDL 
+models the Pacman using PDDL language.
 
-###Project 3 is about the application of Reinforcement Learning in Pacman.
+### Project 3 : Reinforcement Learning
+is about the application of Reinforcement Learning in Pacman.
 
-The exact project descriptions could be found in each project folder.
+
 
