@@ -1,7 +1,9 @@
 # Unimelb_COMP90054_2020_SM1_AI_Planning_for_Autonomy_Pacman_Assignments
 
 ## The 3 Pacman assignments of AI Planning were taken from UC Berkley's CS188.
-![搜狗截图21年03月09日1303_1](https://user-images.githubusercontent.com/37972702/110407415-e7c98600-80d7-11eb-81bc-ff9d3e7482ce.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37972702/110407415-e7c98600-80d7-11eb-81bc-ff9d3e7482ce.jpg">
+</p>
 
 You can find them at
 Project 1 and Project 2: https://inst.eecs.berkeley.edu/~cs188/fa18/project1.html
